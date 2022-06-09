@@ -54,6 +54,7 @@ class CharInfo extends Component {
         })
     }
 
+
     onError = () => {
         this.setState({
             loading: false,
